@@ -1,5 +1,5 @@
 # README
-Complete Ruby on Rails Programming Language
+Rails the full package programming language.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
